@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "design-system",
+  "name": "design-system-n",
   "author": "igwechinonso",
   "module": "dist/design-system.esm.js",
   "size-limit": [
